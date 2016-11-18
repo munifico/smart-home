@@ -1,0 +1,24 @@
+{
+  "name": "SmartHome",
+  "version": "1.0.0",
+  "description": "A minimal Electron application For SmartHomeService",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/munifico/smart-home",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "express": "^4.14.0",
+    "geolocation": "^0.2.0"
+  }
+}
